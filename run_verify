@@ -1,1 +1,4 @@
-
+#!/bin/bash
+# Verify /boot, bootload and MBR/GPT against stored known (good values).
+# Made redundant on systems with Secureboot
+# Useful for basic systems without secureboot or enabled
